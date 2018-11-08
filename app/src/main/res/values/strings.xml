@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MyMiniSlot</string>
+    <string name="text_gameTitle">ミニスロットゲーム</string>
+    <string name="button_start">スタート</string>
+    <string name="button_up">掛け金UP</string>
+    <string name="button_down">掛け金DOWN</string>
+    <string name="button_reset">手持ちリセット</string>
+    <string name="image_iocn_t">icon</string>
+    <string name="text_haveCoin">手持ちコイン：</string>
+    <string name="text_kakeCoin">掛け金：</string>
+    <string name="text_haveCoinFirst">1000</string>
+    <string name="text_kakeCoinFirst">10</string>
+    <string name="text_msg">ヽ(=´▽`=)ﾉ</string>
+    <string name="button_back">戻る</string>
+</resources>
